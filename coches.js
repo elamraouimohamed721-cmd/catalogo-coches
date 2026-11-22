@@ -1,0 +1,20 @@
+const coches = [
+{ marca: "Benz", modelo: "Patent-Motorwagen", anio: 1886, pais: "Alemania", wiki: "Benz_Patent-Motorwagen", precioOriginal: "Unos 600 marcos", precioActual: "Pieza de museo" },
+{ marca: "Ford", modelo: "Model T", anio: 1908, pais: "EE. UU.", wiki: "Ford_Model_T", precioOriginal: "825 dólares", precioActual: "15.000 - 30.000 dólares (restaurado)" },
+{ marca: "Rolls-Royce", modelo: "Silver Ghost", anio: 1907, pais: "Reino Unido", wiki: "Rolls-Royce_Silver_Ghost", precioOriginal: "Unas 985 libras", precioActual: "Millones de euros" },
+{ marca: "Bugatti", modelo: "Type 35", anio: 1924, pais: "Francia", wiki: "Bugatti_Type_35", precioOriginal: "Unas 4.000 libras", precioActual: "Más de 2 millones de euros" },
+{ marca: "Volkswagen", modelo: "Escarabajo", anio: 1938, pais: "Alemania", wiki: "Volkswagen_Beetle", precioOriginal: "990 marcos", precioActual: "10.000 - 25.000 euros" },
+{ marca: "Citroën", modelo: "2CV", anio: 1948, pais: "Francia", wiki: "Citroën_2CV", precioOriginal: "Unos 120.000 francos", precioActual: "10.000 - 20.000 euros" },
+{ marca: "SEAT", modelo: "600", anio: 1957, pais: "España", wiki: "SEAT_600", precioOriginal: "65.000 pesetas", precioActual: "8.000 - 15.000 euros" },
+{ marca: "Mini", modelo: "Classic Mini", anio: 1959, pais: "Reino Unido", wiki: "Mini", precioOriginal: "497 libras", precioActual: "12.000 - 25.000 libras" },
+{ marca: "Jaguar", modelo: "E-Type", anio: 1961, pais: "Reino Unido", wiki: "Jaguar_E-Type", precioOriginal: "Unas 2.100 libras", precioActual: "100.000 - 300.000 euros" },
+{ marca: "Ford", modelo: "Mustang", anio: 1964, pais: "EE. UU.", wiki: "Ford_Mustang", precioOriginal: "2.368 dólares", precioActual: "Desde 40.000 dólares (nuevo)" },
+{ marca: "Toyota", modelo: "Corolla", anio: 1966, pais: "Japón", wiki: "Toyota_Corolla", precioOriginal: "Unos 495.000 yenes", precioActual: "Desde 22.000 euros (nuevo)" },
+{ marca: "Lamborghini", modelo: "Miura", anio: 1966, pais: "Italia", wiki: "Lamborghini_Miura", precioOriginal: "Unos 20.000 dólares", precioActual: "Más de 1,5 millones de euros" },
+{ marca: "Porsche", modelo: "911", anio: 1964, pais: "Alemania", wiki: "Porsche_911", precioOriginal: "Unos 21.000 marcos", precioActual: "Desde 130.000 euros (nuevo)" },
+{ marca: "Ferrari", modelo: "F40", anio: 1987, pais: "Italia", wiki: "Ferrari_F40", precioOriginal: "Unos 400.000 dólares", precioActual: "Más de 2 millones de euros" },
+{ marca: "McLaren", modelo: "F1", anio: 1992, pais: "Reino Unido", wiki: "McLaren_F1", precioOriginal: "Unos 640.000 libras", precioActual: "Más de 20 millones de dólares" },
+{ marca: "Toyota", modelo: "Prius", anio: 1997, pais: "Japón", wiki: "Toyota_Prius", precioOriginal: "Unos 21.400.000 yenes", precioActual: "Desde 30.000 euros (nuevo)" },
+{ marca: "Tesla", modelo: "Model S", anio: 2012, pais: "EE. UU.", wiki: "Tesla_Model_S", precioOriginal: "Desde 57.400 dólares", precioActual: "Desde 75.000 dólares" },
+{ marca: "Bugatti", modelo: "Chiron", anio: 2016, pais: "Francia", wiki: "Bugatti_Chiron", precioOriginal: "Unos 2,4 millones de euros", precioActual: "Más de 3 millones de euros" }
+];
